@@ -35,7 +35,7 @@
 | 平台 | 名称 | 说明 |
 |:------|:------|:------|
 | 🧠 GitHub | 芝士苹果派 | 技术与项目笔记 |
-| 🎥 YouTube | Cheese Apple Pie | 开发 + vlog |
+| 🎥 YouTube | @itspommehub | 开发 + vlog |
 | 📱 抖音 / B站 | 芝士苹果派 | 轻内容 · 创作日志 |
 | 🌐 官网 | [itspomme.cn](https://itspomme.cn) | 所有内容的集合地 |
 
